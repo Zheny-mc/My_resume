@@ -1,2 +1,5 @@
-# My_resume
-my resume HTML/CSS/SCSS
+# Resume
+
+This resume:
+* create layouts using HTML, CSS and SCSS
+* create responsive layout for mobile devices
